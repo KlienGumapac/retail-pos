@@ -9,7 +9,7 @@ To deploy this application on Vercel, you need to set up the following environme
 1. **MONGODB_URI**
 
    - Your MongoDB connection string
-   - Example: `mongodb+srv://username:password@cluster.mongodb.net/database_name`
+   - Example: ``
    - Get this from your MongoDB Atlas dashboard
 
 2. **JWT_SECRET**
